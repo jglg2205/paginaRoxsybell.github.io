@@ -1,0 +1,17 @@
+
+.card:hover{
+    opacity: 0.8;
+
+}
+h2:hover{
+    color: blue;
+    opacity: 0.8;
+}
+.enlace-footer:hover{
+    opacity: 0.8;
+}
+
+body{
+    background-color: rgba(186, 79, 101, 0.989);
+}
+    
