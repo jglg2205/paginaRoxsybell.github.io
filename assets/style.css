@@ -14,4 +14,10 @@ h2:hover{
 body{
     background-color: rgba(186, 79, 101, 0.989);
 }
-    
+footer{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
